@@ -1,4 +1,4 @@
-# Data Warehouse Product Sales Region - Kelompok 5
+# Data Warehouse - Kelompok 5
 
 Proyek Business Intelligence untuk implementasi Data Warehouse dengan dataset Northwind Traders yang dibuat oleh Microsoft untuk tujuan edukasi dan demonstrasi. Basis data ini merepresentasikan skenario bisnis perusahaan dagang gourmet fiktif bernama "Northwind Traders" menggunakan Pentaho Data Integration (PDI) dan MySQL.
 
